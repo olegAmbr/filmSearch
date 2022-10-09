@@ -18,7 +18,7 @@
         android:layout_marginEnd="20dp"
         android:layout_marginStart="20dp"
         android:layout_marginBottom="20dp"
-        android:background="#DA2943" />
+        android:background="#E85268" />
 
     <FrameLayout
         android:id="@+id/bottomMenu"
